@@ -4,7 +4,7 @@ Submitted by: Amogh Kapalli
 
 HelloWorld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. It also allows for users to hear a dog bark and stopping this noise by clicking a different button to give the dog a treat.
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -36,6 +36,8 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+When building this app I didnt have any major challenges but when trying to extend additional features, I had trouble using the Glide library to implement adding a gif to the product. This is something I will continue to work on to extend additional features to this app.
 
 ## License
 
