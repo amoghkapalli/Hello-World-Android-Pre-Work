@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] Add an audio functionality to hear a dog bark and stop this bark.
-* [X] 
+
+Features I hope to add:
+* [ ] Improve the UI design to make it more viewer friendly
+* [ ] Use intents to create a seperate screen with a gif of a dog barking after the bark button is clicked.
 
 ## Video Walkthrough
 
