@@ -26,7 +26,7 @@ Features I hope to add:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/EsEuT6n' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/KDPLsjq.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap 
 
